@@ -1,6 +1,6 @@
 [![Organization banner](https://cdn.upload.systems/uploads/Z6nQdJ7m.webp)](#)
 
-<div style="text-align: center;">
+<div align="center">
 
 # VRTPRO (Virtual Projects)
 
