@@ -2,10 +2,6 @@
 
 <div align="center">
 
-# VRTPRO (Virtual Projects)
-
-Organization that handles fan-made projects about Virtual YouTubers.
-
 ![Visits counter](https://komarev.com/ghpvc/?username=vrtpro&color=48305E&style=for-the-badge&label=Visits)
 
 </div>
